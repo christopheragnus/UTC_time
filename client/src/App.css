@@ -1,0 +1,9 @@
+.form_control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input_control {
+  margin: 10px 0 10px 0;
+}
